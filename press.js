@@ -6,3 +6,4 @@ function press(){
 } //function to press all the buttons
 }
 press(); //crank it to 11
+//sidenote: if you run this while the follow button is pressed you WILL unfollow those people
